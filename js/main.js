@@ -56,7 +56,7 @@ $(function(){
 		else{
 			a=4;
 		}
-		console.log(a);
+		// console.log(a);
 		$("#content > div").eq(a).addClass("active");
 	});
 });
